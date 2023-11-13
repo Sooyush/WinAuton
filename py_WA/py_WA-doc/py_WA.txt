@@ -1,0 +1,5 @@
+Downloaded Python installer for windows, installed in U:/
+python.exe -m pip install --upgrade pip
+downloading git(surprisingly I didn't have one)
+
+pip install pyautogui
